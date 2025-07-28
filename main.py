@@ -1,5 +1,6 @@
 def get_user_input():
-    name = input("Enter your username: ")
+    name = input("Enter your USERNAME PLEASE: ")
+    print("Commit#1")
     length = float(input("Enter rectangle Length: "))
     width = float(input("Enter rectangle Width : "))
     return name, length, width
